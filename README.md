@@ -1,6 +1,6 @@
 # Shader Generativo - Cielo Estrellado Cósmico
 
-**Tutor:** Miguel Ángel Rodríguez Ruano
+**Autor:** Miguel Ángel Rodríguez Ruano
 
 ---
 
