@@ -88,10 +88,7 @@ Técnicas aplicadas para reducción de footprint:
 - **Shadertoy**: Repositorio de técnicas de generación procedural
   - Implementaciones de campos estelares
   - Métodos de optimización para shaders compactos
-
-- **Inigo Quilez**: Documentación técnica sobre funciones hash
-  - https://iquilezles.org/articles/
-
+    
 - **Tiny shader compo**: Técnicas de la comunidad de size-coding en GLSL
 
 ---
